@@ -1,0 +1,13 @@
+To: Dr. Hayes
+From: Jack Jaquish
+Subject: Github memo
+Date: 9/12/2019
+
+What I learned: As for what I learned from this assignment using the resources provided, the primary piece of new knowledge is the role of a configuration manager. I have no experience on a truly formal team so seeing the lengths that those working on a large project go through for organization and accountability is surprising, but understandable. I also didn't know before that there were public standards for SCM (like IEEE828). All together there was a lot of great information here, and I understand as difficult as it is sometimes to adhere to strict organization, the benefit is too massive to do otherwise (in all but the smallest projects).
+
+Why configuration management is important:
+My previous experience in certain courses (498) as well as in industry have given me a strong appreciation for version control. In 498 my team and I had several instances of bad luck with certain commits that would've been huge problems if we weren't using version control. I have also personally experienced tragedy in my professional life due to my initial lack of organization. SCM is a great benefit for a few reasons:
+1. It takes some pressure off of the developers when they're making large changes to a project, as it should be a small issue to undo their changes.
+2. It adds accountability for all changes, so issues can be properly attributed and addressed.
+3. It offers a great foundation for non-developers to track a project (somewhat).
+4. It provides an easy way to access a project for testing in/on different environments.
